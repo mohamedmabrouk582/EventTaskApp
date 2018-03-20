@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EventTask App</string>
+    <string name="imageUrl">Url :</string>
+    <string name="date">Date :</string>
+    <string name="type">Type :</string>
+    <string name="name">Name :</string>
+    <string name="search_">Event Type</string>
+    <string name="title_activity_event_details">EventDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="promoter">Promoter</string>
+    <string name="description">Des :</string>
+    <string name="prices">Prices</string>
+    <string name="venues">Venues</string>
+    <string name="time_zone">Time Zone : </string>
+    <string name="address">Address :</string>
+    <string name="phoneNumberDetail">phone Number Detail :</string>
+    <string name="open_hours_detail">open Hours Detail :</string>
+    <string name="accepted_payment_detail">accepted Payment Detail :</string>
+    <string name="will_call_detail">will Call Detail :</string>
+    <string name="attractions">Attractions </string>
+    <string name="currency">Currency :</string>
+    <string name="min">Min :</string>
+    <string name="max">Max :</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="favourites">Favourites</string>
+    <string name="all">All</string>
+</resources>

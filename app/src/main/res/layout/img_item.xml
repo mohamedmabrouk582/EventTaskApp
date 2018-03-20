@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bind="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="img"
+            type="com.example.mabrouk.eventtaskapp.models.image"/>
+    </data>
+<android.support.v7.widget.CardView
+    android:layout_width="wrap_content"
+    app:cardCornerRadius="@dimen/_5sdp"
+    android:layout_height="wrap_content">
+<ImageView
+    android:layout_width="@dimen/_70sdp"
+    android:layout_height="@dimen/_70sdp"
+    android:scaleType="centerInside"
+    android:id="@+id/img_item"
+    bind:imageUrl="@{img.imageUrl}"
+    />
+</android.support.v7.widget.CardView>
+</layout>
